@@ -1,0 +1,11 @@
+Phần 1 ( phân tích) 
+-vị trí đặt file của nam tại ổ C:\ là sai nên đặt ở ổ D:\
+-Cách đặt tên file có khoảng trắng 
+-Nam hiểu lầm giữa 100 Mbps với 12,5MB/s trong khi 12,5MB/s = 100/8 MB/s
+-SSD 256 GB hiển thị thực tế thấp hơn vì:
+
+Nhà sản xuất tính theo hệ thập phân: 1 GB = 1.000.000.000 byte.
+Hệ điều hành thường tính theo hệ nhị phân: 1 GiB = 1.073.741.824 byte.
+Một phần dung lượng còn được dùng cho hệ thống, phân vùng và định dạng ổ đĩa.
+Phần 2 (Hoàn thiện):
+D:\Bai_Tap_Cua_Nam\Session_01\Bai_Tap_1.p
